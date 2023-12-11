@@ -12,3 +12,4 @@ D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\refint\prop-meto
 D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\prop-metod-construtor.pdb
 D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\prop-metod-construtor.genruntimeconfig.cache
 D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\ref\prop-metod-construtor.dll
+D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\prop-metod-construtor.sourcelink.json

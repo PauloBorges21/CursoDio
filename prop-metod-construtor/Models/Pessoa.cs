@@ -19,7 +19,6 @@ namespace prop_metod_construtor.Models
             //Com Body Expressions
             get => _nome.ToUpper();
 
-
             set
             {
                 if (value == "")
@@ -45,9 +44,13 @@ namespace prop_metod_construtor.Models
 
         }
 
+        public string Sobrenome { get; set; }
+
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
+
         public void Apresentar()
         {
-            Console.WriteLine($"Nome: {Nome}, Idade: {Idade}");
+            Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
         }
     }
 }
