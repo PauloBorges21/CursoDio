@@ -1,0 +1,11 @@
+D:\Source\Repos\FundamentosDIO\FundamentosDio.Common\bin\Debug\net8.0\FundamentosDio.Common.deps.json
+D:\Source\Repos\FundamentosDIO\FundamentosDio.Common\bin\Debug\net8.0\FundamentosDio.Common.dll
+D:\Source\Repos\FundamentosDIO\FundamentosDio.Common\bin\Debug\net8.0\FundamentosDio.Common.pdb
+D:\Source\Repos\FundamentosDIO\FundamentosDio.Common\obj\Debug\net8.0\FundamentosDio.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\FundamentosDIO\FundamentosDio.Common\obj\Debug\net8.0\FundamentosDio.Common.AssemblyInfoInputs.cache
+D:\Source\Repos\FundamentosDIO\FundamentosDio.Common\obj\Debug\net8.0\FundamentosDio.Common.AssemblyInfo.cs
+D:\Source\Repos\FundamentosDIO\FundamentosDio.Common\obj\Debug\net8.0\FundamentosDio.Common.csproj.CoreCompileInputs.cache
+D:\Source\Repos\FundamentosDIO\FundamentosDio.Common\obj\Debug\net8.0\FundamentosDio.Common.dll
+D:\Source\Repos\FundamentosDIO\FundamentosDio.Common\obj\Debug\net8.0\refint\FundamentosDio.Common.dll
+D:\Source\Repos\FundamentosDIO\FundamentosDio.Common\obj\Debug\net8.0\FundamentosDio.Common.pdb
+D:\Source\Repos\FundamentosDIO\FundamentosDio.Common\obj\Debug\net8.0\ref\FundamentosDio.Common.dll

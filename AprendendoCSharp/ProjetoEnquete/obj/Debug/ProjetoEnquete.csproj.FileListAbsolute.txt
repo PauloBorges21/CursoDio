@@ -1,0 +1,6 @@
+D:\repositorio\AprendendoCSharp\ProjetoEnquete\bin\Debug\ProjetoEnquete.exe.config
+D:\repositorio\AprendendoCSharp\ProjetoEnquete\bin\Debug\ProjetoEnquete.exe
+D:\repositorio\AprendendoCSharp\ProjetoEnquete\bin\Debug\ProjetoEnquete.pdb
+D:\repositorio\AprendendoCSharp\ProjetoEnquete\obj\Debug\ProjetoEnquete.csproj.CoreCompileInputs.cache
+D:\repositorio\AprendendoCSharp\ProjetoEnquete\obj\Debug\ProjetoEnquete.exe
+D:\repositorio\AprendendoCSharp\ProjetoEnquete\obj\Debug\ProjetoEnquete.pdb

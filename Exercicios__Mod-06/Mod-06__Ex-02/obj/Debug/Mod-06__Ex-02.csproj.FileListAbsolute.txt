@@ -1,0 +1,12 @@
+C:\VisualStudio\Mod-06__Ex-02\bin\Debug\Mod-06__Ex-02.exe.config
+C:\VisualStudio\Mod-06__Ex-02\bin\Debug\Mod-06__Ex-02.exe
+C:\VisualStudio\Mod-06__Ex-02\bin\Debug\Mod-06__Ex-02.pdb
+C:\VisualStudio\Mod-06__Ex-02\obj\Debug\Mod-06__Ex-02.exe
+C:\VisualStudio\Mod-06__Ex-02\obj\Debug\Mod-06__Ex-02.pdb
+D:\repositorio\Exercicios__Mod-06\Mod-06__Ex-02\bin\Debug\Mod-06__Ex-02.exe.config
+D:\repositorio\Exercicios__Mod-06\Mod-06__Ex-02\bin\Debug\Mod-06__Ex-02.exe
+D:\repositorio\Exercicios__Mod-06\Mod-06__Ex-02\bin\Debug\Mod-06__Ex-02.pdb
+D:\repositorio\Exercicios__Mod-06\Mod-06__Ex-02\obj\Debug\Mod-06__Ex-02.csproj.AssemblyReference.cache
+D:\repositorio\Exercicios__Mod-06\Mod-06__Ex-02\obj\Debug\Mod-06__Ex-02.csproj.CoreCompileInputs.cache
+D:\repositorio\Exercicios__Mod-06\Mod-06__Ex-02\obj\Debug\Mod-06__Ex-02.exe
+D:\repositorio\Exercicios__Mod-06\Mod-06__Ex-02\obj\Debug\Mod-06__Ex-02.pdb

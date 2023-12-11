@@ -1,0 +1,14 @@
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\bin\Debug\net6.0\FundamentosDIO.NET6.exe
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\bin\Debug\net6.0\FundamentosDIO.NET6.deps.json
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\bin\Debug\net6.0\FundamentosDIO.NET6.runtimeconfig.json
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\bin\Debug\net6.0\FundamentosDIO.NET6.dll
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\bin\Debug\net6.0\FundamentosDIO.NET6.pdb
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\obj\Debug\net6.0\FundamentosDIO.NET6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\obj\Debug\net6.0\FundamentosDIO.NET6.AssemblyInfoInputs.cache
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\obj\Debug\net6.0\FundamentosDIO.NET6.AssemblyInfo.cs
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\obj\Debug\net6.0\FundamentosDIO.NET6.csproj.CoreCompileInputs.cache
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\obj\Debug\net6.0\FundamentosDIO.NET6.dll
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\obj\Debug\net6.0\refint\FundamentosDIO.NET6.dll
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\obj\Debug\net6.0\FundamentosDIO.NET6.pdb
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\obj\Debug\net6.0\FundamentosDIO.NET6.genruntimeconfig.cache
+D:\Source\Repos\FundamentosDIO\FundamentosDIO.NET6\obj\Debug\net6.0\ref\FundamentosDIO.NET6.dll

@@ -1,0 +1,14 @@
+D:\Source\Repos\CursoDIO\prop-metod-construtor\bin\Debug\net8.0\prop-metod-construtor.exe
+D:\Source\Repos\CursoDIO\prop-metod-construtor\bin\Debug\net8.0\prop-metod-construtor.deps.json
+D:\Source\Repos\CursoDIO\prop-metod-construtor\bin\Debug\net8.0\prop-metod-construtor.runtimeconfig.json
+D:\Source\Repos\CursoDIO\prop-metod-construtor\bin\Debug\net8.0\prop-metod-construtor.dll
+D:\Source\Repos\CursoDIO\prop-metod-construtor\bin\Debug\net8.0\prop-metod-construtor.pdb
+D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\prop-metod-construtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\prop-metod-construtor.AssemblyInfoInputs.cache
+D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\prop-metod-construtor.AssemblyInfo.cs
+D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\prop-metod-construtor.csproj.CoreCompileInputs.cache
+D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\prop-metod-construtor.dll
+D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\refint\prop-metod-construtor.dll
+D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\prop-metod-construtor.pdb
+D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\prop-metod-construtor.genruntimeconfig.cache
+D:\Source\Repos\CursoDIO\prop-metod-construtor\obj\Debug\net8.0\ref\prop-metod-construtor.dll
