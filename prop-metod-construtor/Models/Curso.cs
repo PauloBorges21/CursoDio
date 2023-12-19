@@ -9,7 +9,7 @@ namespace prop_metod_construtor.Models
     {
         public string Nome { get; set; }
 
-        public List<Pessoa> Alunos { get; set; }
+        public List<Pessoa> Alunos { get; set; } 
 
 
         public void AdicionarAluno(Pessoa aluno)
@@ -34,7 +34,7 @@ namespace prop_metod_construtor.Models
              Console.WriteLine($"Alunos do curso: {Nome}") ;
             foreach (Pessoa aluno in Alunos)
             {
-                Console.WriteLine(aluno.NomeCompleto) ;
+                Console.WriteLine($"{aluno.NomeCompleto}") ;
             }
             
         }

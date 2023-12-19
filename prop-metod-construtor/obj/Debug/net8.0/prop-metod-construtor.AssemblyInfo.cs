@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prop-metod-construtor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60770e593b361e94d101c75dd0df0925f5271325")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bac947f63f68d5ee5f680daff0d1ea6c8da3e7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("prop-metod-construtor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prop-metod-construtor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

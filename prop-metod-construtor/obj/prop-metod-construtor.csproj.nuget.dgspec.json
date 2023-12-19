@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source\\Repos\\CursoDIO\\prop-metod-construtor\\prop-metod-construtor.csproj": {}
+    "D:\\Source\\Repos\\CursoDio\\prop-metod-construtor\\prop-metod-construtor.csproj": {}
   },
   "projects": {
-    "D:\\Source\\Repos\\CursoDIO\\prop-metod-construtor\\prop-metod-construtor.csproj": {
+    "D:\\Source\\Repos\\CursoDio\\prop-metod-construtor\\prop-metod-construtor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\Repos\\CursoDIO\\prop-metod-construtor\\prop-metod-construtor.csproj",
+        "projectUniqueName": "D:\\Source\\Repos\\CursoDio\\prop-metod-construtor\\prop-metod-construtor.csproj",
         "projectName": "prop-metod-construtor",
-        "projectPath": "D:\\Source\\Repos\\CursoDIO\\prop-metod-construtor\\prop-metod-construtor.csproj",
+        "projectPath": "D:\\Source\\Repos\\CursoDio\\prop-metod-construtor\\prop-metod-construtor.csproj",
         "packagesPath": "C:\\Users\\paulo.borges\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\Repos\\CursoDIO\\prop-metod-construtor\\obj\\",
+        "outputPath": "D:\\Source\\Repos\\CursoDio\\prop-metod-construtor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
