@@ -1,0 +1,15 @@
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\bin\Debug\net8.0\TiposEspeciais.exe
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\bin\Debug\net8.0\TiposEspeciais.deps.json
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\bin\Debug\net8.0\TiposEspeciais.runtimeconfig.json
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\bin\Debug\net8.0\TiposEspeciais.dll
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\bin\Debug\net8.0\TiposEspeciais.pdb
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\obj\Debug\net8.0\TiposEspeciais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\obj\Debug\net8.0\TiposEspeciais.AssemblyInfoInputs.cache
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\obj\Debug\net8.0\TiposEspeciais.AssemblyInfo.cs
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\obj\Debug\net8.0\TiposEspeciais.csproj.CoreCompileInputs.cache
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\obj\Debug\net8.0\TiposEspeciais.sourcelink.json
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\obj\Debug\net8.0\TiposEspeciais.dll
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\obj\Debug\net8.0\refint\TiposEspeciais.dll
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\obj\Debug\net8.0\TiposEspeciais.pdb
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\obj\Debug\net8.0\TiposEspeciais.genruntimeconfig.cache
+D:\Source\Repos\CursoDio\AprendendoCSharp\TiposEspeciais\obj\Debug\net8.0\ref\TiposEspeciais.dll

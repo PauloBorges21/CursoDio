@@ -1,0 +1,15 @@
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\obj\Debug\net8.0\VarDinamicoClassesGenericas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\obj\Debug\net8.0\VarDinamicoClassesGenericas.AssemblyInfoInputs.cache
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\obj\Debug\net8.0\VarDinamicoClassesGenericas.AssemblyInfo.cs
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\obj\Debug\net8.0\VarDinamicoClassesGenericas.csproj.CoreCompileInputs.cache
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\obj\Debug\net8.0\VarDinamicoClassesGenericas.sourcelink.json
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\bin\Debug\net8.0\VarDinamicoClassesGenericas.exe
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\bin\Debug\net8.0\VarDinamicoClassesGenericas.deps.json
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\bin\Debug\net8.0\VarDinamicoClassesGenericas.runtimeconfig.json
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\bin\Debug\net8.0\VarDinamicoClassesGenericas.dll
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\bin\Debug\net8.0\VarDinamicoClassesGenericas.pdb
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\obj\Debug\net8.0\VarDinamicoClassesGenericas.dll
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\obj\Debug\net8.0\refint\VarDinamicoClassesGenericas.dll
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\obj\Debug\net8.0\VarDinamicoClassesGenericas.pdb
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\obj\Debug\net8.0\VarDinamicoClassesGenericas.genruntimeconfig.cache
+D:\Source\Repos\CursoDio\AprendendoCSharp\VarDinamicoClassesGenericas\obj\Debug\net8.0\ref\VarDinamicoClassesGenericas.dll
