@@ -1,0 +1,15 @@
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\bin\Debug\net8.0\ExemploPOO.exe
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\bin\Debug\net8.0\ExemploPOO.deps.json
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\bin\Debug\net8.0\ExemploPOO.runtimeconfig.json
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\bin\Debug\net8.0\ExemploPOO.dll
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\bin\Debug\net8.0\ExemploPOO.pdb
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\obj\Debug\net8.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfo.cs
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\obj\Debug\net8.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\obj\Debug\net8.0\ExemploPOO.sourcelink.json
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\obj\Debug\net8.0\ExemploPOO.dll
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\obj\Debug\net8.0\refint\ExemploPOO.dll
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\obj\Debug\net8.0\ExemploPOO.pdb
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\obj\Debug\net8.0\ExemploPOO.genruntimeconfig.cache
+D:\Source\Repos\CursoDio\AprendendoCSharp\ExemploPOO\obj\Debug\net8.0\ref\ExemploPOO.dll
